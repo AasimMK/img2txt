@@ -3,7 +3,7 @@ Program to convert image to text file using pytesseract.
 Pytesseract is a python wrapper for Google Tesseract.
 
 ### Dependency
-You will need Python3.x and [Google Tesseract](https://opensource.google.com/projects/tesseract) to run this program.he packages are listed below:
+You will need Python3.x and [Google Tesseract](https://opensource.google.com/projects/tesseract) to run this program. The packages are listed below:
 
 To install [Google Tesseract](https://opensource.google.com/projects/tesseract) in Mac OS, run below commands in terminal:
 ```sh
